@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YOUR_GITHUB_USERNAME/email-package-with-nodemailer.git"
+    "url": "git+https://github.com/devilseye-from666/email-package-with-nodemailer.git"
   },
-  "homepage": "https://github.com/YOUR_GITHUB_USERNAME/email-package-with-nodemailer#readme",
+  "homepage": "https://github.com/devilseye-from666/email-package-with-nodemailer#readme",
   "keywords": [
     "email",
     "api",
