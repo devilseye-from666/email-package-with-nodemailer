@@ -1,5 +1,5 @@
 {
-  "name": "email-package-with-nodemailer",
+  "name": "@devilseye-from666/email-package-with-nodemailer",
   "version": "1.0.7",
   "main": "index.js",
   "type": "module",
